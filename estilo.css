@@ -1,0 +1,20 @@
+.nav {
+    background: #003366;
+    color: white;
+}
+.brand {
+    color: white;
+    font-family: "Belleza", serif;
+}
+.footer {
+    background: #003366;
+}
+.navitens {
+    color: white;
+}
+.logo {
+    width: 50px;
+}
+.section-money {
+    background: lightgreen;
+}
